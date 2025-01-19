@@ -1,0 +1,8 @@
+Python 3.7 or higher
+LM Studio running locally on your machine
+Excel-compatible software to view the backup file
+Python Libraries:
+OpenAI
+PANDAS
+Install the required libraries by running:
+    pip install libraries_name
