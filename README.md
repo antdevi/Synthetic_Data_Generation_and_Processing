@@ -1,4 +1,4 @@
-![Pasted image 20250120030029](https://github.com/user-attachments/assets/3724d348-7223-442e-bd33-081890347a83)## Synthetic Data Generation and Processing
+## Synthetic Data Generation and Processing
 
 **Synthetic Data Generation and Processing** is a field focused on creating artificial data that mimics real-world scenarios. This data is widely used for testing, training machine learning models, and validating algorithms, especially when obtaining or using real data is expensive, impractical, or restricted due to privacy concerns. This project implements a chatbot that interacts with users, processes their input using a locally hosted LM Studio instance, and stores the chat responses in an Excel file. The chatbot also includes a looping feature to allow multiple interactions within a single session.
 
@@ -39,7 +39,8 @@ By generating synthetic conversation datasets, this project can help:
 ├── human_facts.xlsx # Excel file to store chat data (generated automatically) ├──generated_articles_excel # Folder stores the files that are created from the contents of the Excel File
 └── README.md # Project documentation
 └──Requirement.txt
-
+### Example output in VS Code:
+![Pasted image 20250120030029](https://github.com/user-attachments/assets/3724d348-7223-442e-bd33-081890347a83)
 ### Excel Output:
 
 | User Input         | Bot Response                                       |
