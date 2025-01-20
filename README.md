@@ -57,6 +57,7 @@ The project operates in two phases:
     - You can open the .xlsx file it will have 3 columns as per your requirement
 ## File Structure
 
+<<<<<<< HEAD
 - `generate_data.py`: The main script for data generation and processing.
     
 - `requirements.txt`: Dependencies required to run the project.
@@ -67,6 +68,14 @@ The project operates in two phases:
 ![Alt text](Pasted image 20250120030029.png)
 ![C:\Users\ANTARA DAS\Documents\GitDemo\SDGP\Terminal_Output.png](file:///c%3A/Users/ANTARA%20DAS/Documents/GitDemo/SDGP/Terminal_Output.png)
 
+=======
+├── app.py # Main script for chatbot interactions
+├── human_facts.xlsx # Excel file to store chat data (generated automatically) ├──generated_articles_excel # Folder stores the files that are created from the contents of the Excel File
+└── README.md # Project documentation
+└──Requirement.txt
+### Example output in VS Code:
+![Pasted image 20250120030029](https://github.com/user-attachments/assets/3724d348-7223-442e-bd33-081890347a83)
+>>>>>>> 1e90bb1b59913fa11831e26d667a73bc97a54981
 ### Excel Output:
 
 The following is an example of what the `human_facts.xlsx` file may look like:
