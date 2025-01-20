@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "051a66aeeeb95efe",
+        "id": "ed91fb2c5c3cf397",
         "type": "tabs",
         "children": [
           {
-            "id": "588b9ef8e903995e",
+            "id": "d0a39c0a765738d4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,11 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "588b9ef8e903995e",
+  "active": "d0a39c0a765738d4",
   "lastOpenFiles": [
-    "requirement.txt",
     "README.md",
     "~$human_facts.xlsx",
+    "Pasted.md",
+    "generator.py",
+    "Terminal_Output.png",
+    "requirement.txt",
     "Pasted image 20250120030614.png",
     "Pasted image 20250120030431.png",
     "Pasted image 20250120030029.png",
